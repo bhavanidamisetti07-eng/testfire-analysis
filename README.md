@@ -15,4 +15,30 @@
 ####Status 
      Environment successfully configured
 #### Screenshots
-      screenshots will be added later.
+      ## Installation Steps
+
+1. Installed Ubuntu 24.04 in Oracle VirtualBox.
+2. Installed Docker on Ubuntu.
+3. Pulled the TestFire (Altoro Mutual) Docker image.
+4. Started the TestFire container.
+5. Accessed the application at:
+   http://localhost:8080
+
+## Analysis
+
+- Successfully deployed the TestFire vulnerable web application.
+- Verified that the login page is accessible.
+- Observed the web application structure for cybersecurity learning.
+- Docker container was running successfully during testing.
+
+## Screenshots
+
+The following screenshots are included in this repository:
+
+- Docker Container Running
+- TestFire Home Page
+- TestFire Login Page
+
+## Conclusion
+
+The TestFire Login Analysis project was successfully completed using Ubuntu and Docker. The application was deployed, accessed through a web browser, and analyzed as part of the cybersecurity learning process.
